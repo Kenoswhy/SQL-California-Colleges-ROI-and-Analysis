@@ -1,0 +1,34 @@
+system_type,school_name,city,tuition_in_state,room_board,total_cost_of_attendance,graduation_rate,median_earnings_after_grad,average_debt,school_type
+UC,UC Davis,Davis,15247,19068,41055,85,80838,13000,Public
+UC,UC Berkeley,Berkeley,14850,22692,45053,93,92446,13000,Public
+UC,UC Santa Cruz,Santa Cruz,14560,18785,40306,74,68396,16666,Public
+UC,UC San Diego,La Jolla,15265,17198,38505,88,84943,15500,Public
+UC,UC Santa Barbara,Santa Barbara,14965,18684,40587,85,74915,13993,Public
+UC,UC Merced,Merced,14167,20293,40685,69,64368,16144,Public
+UC,UCLA,Los Angeles,13747,17148,38031,93,82511,14000,Public
+UC,UC Riverside,Riverside,14170,19433,40285,77,67699,17500,Public
+UC,UC Irvine,Irvine,14237,18423,39051,86,80735,15000,Public
+Private,Stanford University,Stanford,62484,19922,87833,93,124080,12000,Private
+Private,University of Southern California,Los Angeles,68237,19198,90453,92,92498,18000,Private
+Private,Santa Clara University,Santa Clara,59241,18984,83142,88,109183,19162,Private
+Private,Pepperdine University,Malibu,66742,23270,93512,85,82939,23510,Private
+Private,University of San Diego,San Diego,56444,18084,79444,82,86522,22940,Private
+Private,Chapman University,Orange,62784,17378,85080,80,70070,20500,Private
+Private,University of the Pacific,Stockton,55340,16688,76516,68,78445,19500,Private
+Private,Pomona College,Claremont,68670,22464,94154,94,77779,11782,Private
+Private,Harvey Mudd College,Claremont,66255,21710,90165,94,138687,25000,Private
+Private,California Institute of Technology,Pasadena,63255,19503,86886,93,128566,"16,168",Private
+Private,Scripps College,Claremont,63434,20998,87232,87,77539,13500,Private
+Private,Loyola Marymount University,Los Angeles,58974,20713,84603,80,78349,19500,Private
+CSU,Cal Poly San Luis Obispo,San Luis Obispo,11075,17220,32321,85,90768,18500,Public
+CSU,San Diego State University,San Diego,8290,21630,34072,78,64909,15000,Public
+CSU,San Jose State University,San Jose,7992,19866,32310,65,78988,15000,Public
+CSU,"California State Polytechnic University, Pomona",Pomona,7439,16330,28805,67,71902,16000,Public
+CSU,Long Beach State,Long Beach,7008,15612,28416,70,64403,14289,Public
+CSU,Cal State Fullerton,Fullerton,7073,18348,30640,69,62951,13750,Public
+CSU,Cal State Northridge,Northridge,7095,12648,24271,56,59115,13872,Public
+CSU,Sacramento State,Sacramento,7602,16278,29418,56,64876,15000,Public
+CSU,Fresno State,Fresno,6980,11634,23750,55,61244,14505,Public
+CSU,Cal State LA,Los Angeles,6813,18658,33340,53,59211,13000,Public
+CSU,Sonoma State,Rohnert Park,8190,15770,27274,61,65986,16705,Public
+CSU,Chico State,Chico,7972,15212,26728,64,64172,16552,Public
