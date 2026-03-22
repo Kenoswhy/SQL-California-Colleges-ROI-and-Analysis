@@ -102,5 +102,5 @@ This SQL project shows that California colleges differ substantially in cost, de
 
 ## Files
 - `california_college_cost_roi.csv` — dataset
-- `california_colleges_roi_queries` — SQL queries used in the project
+- `california_colleges_roi_queries.sql` — SQL queries used in the project
 - `README.md` — project summary and findings
