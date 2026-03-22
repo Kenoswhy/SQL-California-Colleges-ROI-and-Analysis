@@ -1,4 +1,3 @@
-# SQL-California-Colleges-ROI-and-Analysis
 # California College Cost and ROI Analysis Using SQL
 
 ## Project Overview
